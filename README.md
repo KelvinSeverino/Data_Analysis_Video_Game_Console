@@ -4,7 +4,7 @@ Análise de Dados das vendas de videogames(Consoles/Plataformas) utilizando o Ju
 
 Este Projeto foi criado por Kelvin Severino, e por meio deste irei realizar algumas análises básicas em cima da base de dados encontrada na plataforma de dados estátisticos de games VGChartz.
 
-#Requisitos
+# Requisitos
 Para realização da análise de dados, será necessário que se cumpra os seguintes requisitos.
 
 -Python 3
