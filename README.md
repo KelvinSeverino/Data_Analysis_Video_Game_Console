@@ -8,7 +8,10 @@ Este Projeto foi criado por Kelvin Severino, e por meio deste irei realizar algu
 Para realização da análise de dados, será necessário que se cumpra os seguintes requisitos.
 
 -Python 3
+
 --Biblioteca Pandas
+
 --Biblioteca matplotlib.pyplot 
+
 -Jupyter Notebook
 
